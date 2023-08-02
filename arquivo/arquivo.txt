@@ -1,0 +1,32 @@
+==============================================================
+                        Dependencias
+==============================================================
+
+npx expo install react-native-safe-area-context
+
+npx expo install firebase
+
+
+npx expo install @react-native-async-storage/async-storage
+
+React Navigation => npm install @react-navigation/native
+React Navigation => npx expo install react-native-screens react-native-safe-area-context
+
+React Navigation => npm install @react-navigation/drawer
+React Navigation => npx expo install react-native-gesture-handler react-native-reanimated
+React Navigation => npm install @react-navigation/stack
+React Navigation => npm install @react-native-masked-view/masked-view
+
+
+
+npm install react-native-picker-select
+npm install expo @react-native-picker/picker
+
+
+
+
+Date-fns => npm install date-fns = Biblioteca para manipular Datas
+
+
+
+Calendario =>  npx expo install @react-native-community/datetimepicker
